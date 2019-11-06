@@ -5,12 +5,36 @@
     <link>https://kvan1231.github.io/publication/</link>
       <atom:link href="https://kvan1231.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kvan1231.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://kvan1231.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Low-mass X-ray binaries: the effects of the magnetic braking prescription</title>
+      <link>https://kvan1231.github.io/publication/van-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvan1231.github.io/publication/van-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation of Black Hole X-Ray Binaries with Non-degenerate Donors in Globular Clusters</title>
+      <link>https://kvan1231.github.io/publication/ivanova-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvan1231.github.io/publication/ivanova-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of mass transfer from massive giants: double black hole binary formation and ultraluminous X-ray sources</title>
+      <link>https://kvan1231.github.io/publication/pavlovskii-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvan1231.github.io/publication/pavlovskii-2017/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
