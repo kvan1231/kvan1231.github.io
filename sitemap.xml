@@ -158,12 +158,22 @@
   </url>
   
   <url>
-    <loc>https://kvan1231.github.io/authors/admin/</loc>
+    <loc>https://kvan1231.github.io/authors/k.-x.-van/</loc>
+    <lastmod>2016-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kvan1231.github.io/talk/</loc>
+    <lastmod>2016-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://kvan1231.github.io/talk/cambridge_2016/2016_cambridge/</loc>
-    <priority>0</priority>
+    <lastmod>2016-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kvan1231.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -172,10 +182,6 @@
   
   <url>
     <loc>https://kvan1231.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kvan1231.github.io/talk/</loc>
   </url>
   
 </urlset>
