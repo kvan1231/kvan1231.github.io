@@ -2,8 +2,8 @@
   "name": "Kenny X. Van",
   "short_name": "Kenny X. Van",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#177D8F",
+  "background_color": "#177D8F",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
