@@ -5,12 +5,20 @@
     <link>https://kvan1231.github.io/talk/</link>
       <atom:link href="https://kvan1231.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kvan1231.github.io/img/icon-192.png</url>
       <title>Presentations</title>
       <link>https://kvan1231.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Inverse Population Synthesis Searching for The Origins</title>
+      <link>https://kvan1231.github.io/talk/casca_2019/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvan1231.github.io/talk/casca_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Low Mass X-ray Binaries Population at Roche Lobe Overflow</title>
@@ -41,14 +49,6 @@
       <link>https://kvan1231.github.io/talk/cambridge_2016/</link>
       <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://kvan1231.github.io/talk/cambridge_2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stability of Mass Transfer From Massive Giants</title>
-      <link>https://kvan1231.github.io/talk/casca_2019/</link>
-      <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://kvan1231.github.io/talk/casca_2019/</guid>
       <description></description>
     </item>
     
