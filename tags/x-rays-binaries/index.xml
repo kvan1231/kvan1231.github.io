@@ -5,7 +5,7 @@
     <link>https://kvan1231.github.io/tags/x-rays-binaries/</link>
       <atom:link href="https://kvan1231.github.io/tags/x-rays-binaries/index.xml" rel="self" type="application/rss+xml" />
     <description>X-rays: binaries</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 19:44:05 -0700</lastBuildDate>
     <image>
       <url>https://kvan1231.github.io/img/icon-192.png</url>
       <title>X-rays: binaries</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Evolving LMXBs: CARB Magnetic Braking</title>
+      <link>https://kvan1231.github.io/publication/van-2019b/</link>
+      <pubDate>Thu, 14 Nov 2019 19:44:05 -0700</pubDate>
+      <guid>https://kvan1231.github.io/publication/van-2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Low-mass X-ray binaries: the effects of the magnetic braking prescription</title>
-      <link>https://kvan1231.github.io/publication/van-2019/</link>
+      <link>https://kvan1231.github.io/publication/van-2019a/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvan1231.github.io/publication/van-2019/</guid>
+      <guid>https://kvan1231.github.io/publication/van-2019a/</guid>
       <description></description>
     </item>
     
