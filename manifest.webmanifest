@@ -1,0 +1,18 @@
+{
+  "name": "Kenny X. Van",
+  "short_name": "Kenny X. Van",
+  "lang": "en-us",
+  "theme_color": "#177D8F",
+  "background_color": "#177D8F",
+  "icons": [{
+    "src": "/images/icon_hu94445b176c63d30a255135247b47ebe1_16169_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu94445b176c63d30a255135247b47ebe1_16169_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

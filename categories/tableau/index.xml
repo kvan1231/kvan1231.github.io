@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau | Kenny X. Van</title>
+    <link>https://kvan1231.github.io/categories/tableau/</link>
+      <atom:link href="https://kvan1231.github.io/categories/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tableau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvan1231.github.io/images/icon_hu94445b176c63d30a255135247b47ebe1_16169_512x512_fill_lanczos_center_3.png</url>
+      <title>Tableau</title>
+      <link>https://kvan1231.github.io/categories/tableau/</link>
+    </image>
+    
+    <item>
+      <title>Game of Thrones Kill Dashboard</title>
+      <link>https://kvan1231.github.io/projects/got_kills/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvan1231.github.io/projects/got_kills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau Sales Map</title>
+      <link>https://kvan1231.github.io/projects/sales_map/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvan1231.github.io/projects/sales_map/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

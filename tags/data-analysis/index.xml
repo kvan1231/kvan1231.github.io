@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis | Kenny X. Van</title>
+    <link>https://kvan1231.github.io/tags/data-analysis/</link>
+      <atom:link href="https://kvan1231.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvan1231.github.io/images/icon_hu94445b176c63d30a255135247b47ebe1_16169_512x512_fill_lanczos_center_3.png</url>
+      <title>Data Analysis</title>
+      <link>https://kvan1231.github.io/tags/data-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Neighbourhood Analysis</title>
+      <link>https://kvan1231.github.io/projects/neighbourhood_analysis/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvan1231.github.io/projects/neighbourhood_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
